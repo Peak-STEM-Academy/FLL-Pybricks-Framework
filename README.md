@@ -48,7 +48,6 @@ Every FLL team is different. This template is designed to be modified to fit you
 This template is derived from concepts and code organization originally developed by the Snowbotics FLL Team (Team 39131). Their willingness to share resources with the FLL community made this project possible. Please consider visiting and supporting their repositories:
 
 - https://github.com/Snowbotics39131
-- https://github.com/Snowbotics39131/FLL-Pre-Season-Code
 
 Thank you to the Snowbotics students, mentors, and families for helping advance Python programming within FIRST LEGO League.
 
